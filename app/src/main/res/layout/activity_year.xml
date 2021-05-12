@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="duobroscreations.klufn.activity.Year">
+<Button
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="First year"
+    android:textSize="24dp"
+    android:elegantTextHeight="false"
+    android:layout_marginTop="40dp"
+    android:padding="15dp"
+    android:onClick="first"
+    android:background="#140c51"
+    android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Second year"
+        android:textSize="24dp"
+        android:layout_marginTop="50dp"
+        android:elegantTextHeight="false"
+        android:padding="15dp"
+        android:onClick="second"
+        android:background="#da220a"
+        android:textColor="#ffffff"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Third year"
+        android:textSize="24dp"
+        android:layout_marginTop="50dp"
+        android:elegantTextHeight="false"
+        android:padding="15dp"
+        android:onClick="third"
+        android:background="#f1f113"
+        android:textColor="#000000"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Final year"
+        android:textSize="24dp"
+        android:elegantTextHeight="false"
+        android:padding="15dp"
+        android:onClick="finall"
+        android:layout_marginTop="50dp"
+        android:background="#037e1d"
+        android:textColor="#ffffff"/>
+</LinearLayout>

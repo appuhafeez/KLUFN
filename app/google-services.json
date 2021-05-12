@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "727855433431",
+    "project_id": "firebase-klufn"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727855433431:android:41480b4bd56e84ca",
+        "android_client_info": {
+          "package_name": "duobroscreations.klufn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7_He-8obd-sgboH3lyBeixlHzVxi9VZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
